@@ -58,6 +58,16 @@ li {
 
 
 #bannering {
-    width: 90%;
-    height: auto;
+    width: 70%;
+    height: 600px;
+}
+
+#bannering1{
+	width 150%;
+	height:250px;
+}
+
+#bannering2{
+	width:10%;
+	height: 200px;
 }
