@@ -47,11 +47,11 @@ li {
     color: white;
     font-size: 1.5rem;
     font-weight: bold;
-    text-align: center;
-    border-width:15px;
+	text-align: center;
+    /*border-width:15px;
     border-radius: 100px;
     border-color: #91DB80;
-    border-style: double;
+    border-style: double;*/
     background-color: #414141;
 }
 
